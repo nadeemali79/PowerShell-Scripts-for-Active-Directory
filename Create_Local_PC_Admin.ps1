@@ -5,7 +5,7 @@
 # Add/remove names in this list as needed
 # ============================
 $AccountsToRemove = @(
-    "vorson-admin"
+    "old-admin1"
     # "old-admin2"
     # "old-admin3"
 )
@@ -13,8 +13,8 @@ $AccountsToRemove = @(
 # ============================
 # New account parameters
 # ============================
-$Name        = "tagadmin"
-$Password    = "Karachi@2025"
+$Name        = "newadmin"
+$Password    = "P@$$W0rd123!!++"
 $Description = "Local PC admin account"
 
 # Check for elevation

@@ -1,3 +1,14 @@
+# ============================================================
+# Script     : Secure Local Admin Account Replacement
+# Purpose    : Removes/disables specified legacy local admin
+#              accounts and creates a new local admin account
+#              as part of security best practices.
+#
+# Author     : Nadeem Muhammad Ali Meer
+# Contact    : Call/WhatsApp +923412966104
+# Email      : nadeemali.gio@gmail.com
+# ============================================================
+
 # Requires: run this script as Administrator
 
 # ============================

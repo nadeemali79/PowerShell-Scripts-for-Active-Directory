@@ -5,9 +5,10 @@
 # Add/remove names in this list as needed
 # ============================
 $AccountsToRemove = @(
-    "old-admin1"
-    # "old-admin2"
-    # "old-admin3"
+    "Administrator"
+    # "Admin"
+    # "Admin123"
+    # "PCadmin"
 )
 
 # ============================

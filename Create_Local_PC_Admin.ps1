@@ -14,7 +14,7 @@ $AccountsToRemove = @(
 # ============================
 # New account parameters
 # ============================
-$Name        = "newadmin"
+$Name        = "itkblocalpcadmin"
 $Password    = "itkbLab@2026!Net"
 $Description = "Local PC admin account"
 
